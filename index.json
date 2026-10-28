@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "entries": [
+    {
+      "id": "acrylblends.agent",
+      "name": "An app that builds itself",
+      "kind": "Blueprint",
+      "version": "0.1.0",
+      "path": "blends/acrylblends.agent",
+      "license": "MIT",
+      "category": "starter",
+      "description": "A small app with an offline agent and live plugin install: ask for a feature and the agent writes it into the running app, through the door. Development only: production leaves the agent out.",
+      "runtime": "acrylblends"
+    },
+    {
+      "id": "acrylblends.chat",
+      "name": "Chat",
+      "kind": "Blueprint",
+      "version": "0.1.0",
+      "path": "blends/acrylblends.chat",
+      "license": "MIT",
+      "category": "ai",
+      "description": "An AI chat app: the answer streams token by token from an OpenAI-compatible API (DeepSeek by default), history in SQLite, a Stop button. Closed in production until it has an access token.",
+      "runtime": "acrylblends"
+    },
+    {
+      "id": "acrylblends.notes-desktop",
+      "name": "Notes, in a window",
+      "kind": "Blueprint",
+      "version": "0.1.0",
+      "path": "blends/acrylblends.notes-desktop",
+      "license": "MIT",
+      "category": "productivity",
+      "description": "A multi-user notes app (sign-up, log-in, search, SQLite with migrations) that opens in its own desktop window as well as in the browser.",
+      "runtime": "acrylblends"
+    }
+  ]
+}
