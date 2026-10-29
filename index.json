@@ -33,17 +33,6 @@
       "category": "productivity",
       "description": "A multi-user notes app (sign-up, log-in, search, SQLite with migrations) that opens in its own desktop window as well as in the browser.",
       "runtime": "acrylblends"
-    },
-    {
-      "id": "webboxescompany.hello",
-      "name": "hello-app",
-      "kind": "Blueprint",
-      "version": "0.1.0",
-      "path": "blends/webboxescompany.hello",
-      "license": "MIT",
-      "category": "workshop",
-      "description": "A hello app from the rehearsal.",
-      "runtime": "acrylblends"
     }
   ]
 }
