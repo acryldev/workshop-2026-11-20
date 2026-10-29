@@ -35,17 +35,6 @@
       "runtime": "acrylblends"
     },
     {
-      "id": "musichen.demo",
-      "name": "hello-app",
-      "kind": "Blueprint",
-      "version": "0.1.0",
-      "path": "blends/musichen.demo",
-      "license": "MIT",
-      "category": "workshop",
-      "description": "A demo entry to rehearse unpublish.",
-      "runtime": "acrylblends"
-    },
-    {
       "id": "webboxescompany.hello",
       "name": "hello-app",
       "kind": "Blueprint",
