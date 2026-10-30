@@ -33,6 +33,17 @@
       "category": "productivity",
       "description": "A multi-user notes app (sign-up, log-in, search, SQLite with migrations) that opens in its own desktop window as well as in the browser.",
       "runtime": "acrylblends"
+    },
+    {
+      "id": "smrifat1411.my-app",
+      "name": "my-app",
+      "kind": "Blueprint",
+      "version": "0.1.0",
+      "path": "blends/smrifat1411.my-app",
+      "license": "MIT",
+      "category": "workshop",
+      "description": "the board my agent built",
+      "runtime": "acrylblends"
     }
   ]
 }
